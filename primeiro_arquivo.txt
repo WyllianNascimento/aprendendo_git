@@ -2,8 +2,14 @@ O Git é uma excelente ferramenta para criar repositórios, sendo compatível co
 
 git init - cria um novo repositório do Git
 
-git status - mostra as condições do diretório de trabalho]
+git status - mostra as condições do diretório de trabalho
 
 git add + (nome do arquivo) - adiciona uma alteração arquivo especificado
 
 git add . - adiciona uma alteração no diretório
+
+git commit -m "Mensagem"
+
+git diff - mostra alterações feitas nos arquivos
+
+git log - mostra o histórico de commits
