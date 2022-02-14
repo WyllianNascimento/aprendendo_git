@@ -1,0 +1,9 @@
+O Git é uma excelente ferramenta para criar repositórios, sendo compatível com os principais sistemas operacionais, como: Windows, Linux e MacOs. Alguns de seus comandos são:
+
+git init - cria um novo repositório do Git
+
+git status - mostra as condições do diretório de trabalho]
+
+git add + (nome do arquivo) - commit do arquivo especificado
+
+git add . - commit de todos os arquivos do repositório
