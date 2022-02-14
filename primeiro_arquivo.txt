@@ -4,6 +4,6 @@ git init - cria um novo repositório do Git
 
 git status - mostra as condições do diretório de trabalho]
 
-git add + (nome do arquivo) - commit do arquivo especificado
+git add + (nome do arquivo) - adiciona uma alteração arquivo especificado
 
-git add . - commit de todos os arquivos do repositório
+git add . - adiciona uma alteração no diretório
